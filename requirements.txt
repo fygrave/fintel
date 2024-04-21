@@ -5,6 +5,11 @@ streamlit
 streamlit-agraph==0.0.28
 SPARQLWrapper
 networkx
+Streamlit
+rdflib
+rdflib-jsonld
+rdflib-sqlalchemy
+rdflib-pydot
 
 
 # [-e] git+https://github.com/openlegaldata/oldp-sdk-python.git#egg=oldp-api
